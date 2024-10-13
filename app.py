@@ -27,6 +27,8 @@ print("free" in txt) # type: ignore
 txt2 = "The best things in life are free!"
 print("expensive" not in txt) # type: ignore
 
+a = "hi"
+print(a) # type: ignore
 
 
 
