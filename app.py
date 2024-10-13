@@ -30,6 +30,9 @@ print("expensive" not in txt) # type: ignore
 a = "hi"
 print(a) # type: ignore
 
+c,d = (1,6)
+print(c+d) # type: ignore
+
 
 
 
