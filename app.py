@@ -120,4 +120,4 @@ print(c-d) # type: ignore
 a = "Hello"
 b = "World"
 
-print(a+",Mellow"+" "+b)# type: ignore
+print(a + ",Mellow" + " " + b)# type: ignore
