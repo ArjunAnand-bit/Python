@@ -31,7 +31,7 @@ a = "hi"
 print(a) # type: ignore
 
 c,d = (1,6)
-print(c+d) # type: ignore
+print(c-d) # type: ignore
 
 
 
